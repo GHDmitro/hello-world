@@ -1,3 +1,3 @@
 # hello-world
 My name is Dima
-it is my full information
+it is my 
